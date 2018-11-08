@@ -7,3 +7,15 @@ E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\Newtonsoft.Json.dll
 E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\System.Net.Http.Formatting.dll
 E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\Newtonsoft.Json.xml
 E:\Projects\zoomash\APIXU\APIXULib\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\APIXULib.dll.config
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\APIXULib.dll
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\APIXULib.pdb
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\obj\Debug\APIXULib.csprojAssemblyReference.cache
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\obj\Debug\APIXULib.csproj.CoreCompileInputs.cache
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\obj\Debug\APIXULib.csproj.CopyComplete
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\obj\Debug\APIXULib.dll
+D:\Projects\Cognitive Services Demo Bots\apixu-csharp\APIXULib\obj\Debug\APIXULib.pdb

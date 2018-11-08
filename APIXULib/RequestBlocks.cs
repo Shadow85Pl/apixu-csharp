@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace APIXULib
 {
@@ -20,10 +16,10 @@ namespace APIXULib
                 case MethodType.Current:
                     methodPara = MethodTypeParemeters.Current;
                     break;
+
                 case MethodType.Forecast:
                     methodPara = MethodTypeParemeters.Forecast;
                     break;
-
             }
             if (string.IsNullOrEmpty(methodPara))
             {
@@ -32,11 +28,8 @@ namespace APIXULib
             else
             {
                 return methodPara;
-
             }
         }
-
-
     }
 
     public enum MethodType
@@ -125,32 +118,37 @@ namespace APIXULib
                 case GetBy.CityName:
                     queryParameter = ReqestFor.City(value);
                     break;
+
                 case GetBy.Zip:
                     queryParameter = ReqestFor.Zip(value);
                     break;
+
                 case GetBy.PostCode:
                     queryParameter = ReqestFor.PostCode(value);
                     break;
+
                 case GetBy.PostalCode:
                     queryParameter = ReqestFor.PostalCode(value);
                     break;
+
                 case GetBy.Metar:
                     queryParameter = ReqestFor.Metar(value);
                     break;
+
                 case GetBy.iata:
                     queryParameter = ReqestFor.iata(value);
                     break;
+
                 case GetBy.IPAddress:
                     queryParameter = ReqestFor.IPAddress(value);
                     break;
             }
             return queryParameter;
         }
+
         public static string PrepareDays(this Days days)
         {
-            return "days=" + (int) days;
+            return "days=" + (int)days;
         }
-
-
     }
 }

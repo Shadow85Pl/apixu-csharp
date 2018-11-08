@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace APIXULib
 {
@@ -46,8 +42,6 @@ namespace APIXULib
         public double feelslike_f { get; set; }
     }
 
-   
-
     public class Day
     {
         public double maxtemp_c { get; set; }
@@ -70,8 +64,6 @@ namespace APIXULib
         public string moonrise { get; set; }
         public string moonset { get; set; }
     }
-
-   
 
     public class Hour
     {
